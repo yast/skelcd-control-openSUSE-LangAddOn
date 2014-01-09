@@ -1,0 +1,24 @@
+-------------------------------------------------------------------
+Thu Jan  9 13:21:40 UTC 2014 - lslezak@suse.cz
+
+- the package is maintained now at Yast GitHub repository
+  (https://github.com/yast/skelcd-control-openSUSE-LangAddOn)
+- changed versioning schema to 13.2.x (distribution release
+  prefix)
+- version 13.2.1
+
+-------------------------------------------------------------------
+Tue Dec 31 09:01:57 UTC 2013 - coolo@suse.com
+
+- fix build
+
+-------------------------------------------------------------------
+Fri Dec  5 14:56:27 CET 2008 - locilka@suse.cz
+
+- Using new control file validation - control.rng (bnc #455994)
+
+-------------------------------------------------------------------
+Tue Oct 24 11:08:47 CEST 2006 - locilka@suse.cz
+
+- Initial release (FATE #301239)
+
