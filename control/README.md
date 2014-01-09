@@ -11,9 +11,9 @@ root directory with name `/control.xml`).
 Add-On Products:
 ----------------
 
-File `add-on-installation.xml` is an extension for adding a workflow to the
+File `installation.xml` is an extension for adding a workflow to the
 Language Add-On Product. It should be saved under the root directory
-of the add-on product as `installation.xml`.
+of the add-on product.
 
 Currently it uses these clients:
   - inst_language_add-on
