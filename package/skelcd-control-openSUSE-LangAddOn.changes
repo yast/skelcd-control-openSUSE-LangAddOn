@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Wed Oct 12 15:57:44 UTC 2016 - cwh@suse.com
+
+- changed text domain from add-on to control (bsc#1004050)
+- 13.2.2
+
+-------------------------------------------------------------------
 Thu Jan  9 13:21:40 UTC 2014 - lslezak@suse.cz
 
 - the package is maintained now at Yast GitHub repository
