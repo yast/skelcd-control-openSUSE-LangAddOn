@@ -23,7 +23,7 @@ BuildRequires:  libxml2-tools
 BuildRequires:  yast2-installation-control
 Url:            https://github.com/yast/skelcd-control-openSUSE-LangAddOn
 AutoReqProv:    off
-Version:        13.2.1
+Version:        13.2.2
 Release:        0
 Summary:        skelcd for lang-addons
 License:        GPL-2.0+
